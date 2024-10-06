@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ytBookStore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0f2de541d26e965bcc042eb57149874ff4d13d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6e44fa62fe10ef41cf18bbedac8677f45c0b7d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ytBookStore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ytBookStore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
