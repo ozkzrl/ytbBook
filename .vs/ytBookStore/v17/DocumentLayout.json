@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|c:\\users\\ozkan\\source\\repos\\ytbookstore\\ytbookstore\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|solutionrelative:ytbookstore\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|c:\\users\\ozkan\\source\\repos\\ytbookstore\\ytbookstore\\repositories\\implementation\\bookservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|solutionrelative:ytbookstore\\repositories\\implementation\\bookservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -139,6 +143,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "ytBookStore\\Models\\Class.cs",
+              "ToolTip": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Models\\Class.cs",
+              "RelativeToolTip": "ytBookStore\\Models\\Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T16:44:44.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "BookService .cs",
               "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Repositories\\Implementation\\BookService .cs",
               "RelativeDocumentMoniker": "ytBookStore\\Repositories\\Implementation\\BookService .cs",
@@ -151,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IBookService.cs",
               "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Repositories\\Abstract\\IBookService.cs",
               "RelativeDocumentMoniker": "ytBookStore\\Repositories\\Abstract\\IBookService.cs",
@@ -163,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GetAll.cshtml",
               "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Views\\Publisher\\GetAll.cshtml",
               "RelativeDocumentMoniker": "ytBookStore\\Views\\Publisher\\GetAll.cshtml",
@@ -175,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Views\\Publisher\\Update.cshtml",
               "RelativeDocumentMoniker": "ytBookStore\\Views\\Publisher\\Update.cshtml",
@@ -187,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "GenreController.cs",
               "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Controllers\\GenreController.cs",
               "RelativeDocumentMoniker": "ytBookStore\\Controllers\\GenreController.cs",
@@ -199,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Models\\Domain\\Book.cs",
               "RelativeDocumentMoniker": "ytBookStore\\Models\\Domain\\Book.cs",
@@ -211,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "DatabaseContext.cs",
               "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Models\\Domain\\DatabaseContext.cs",
               "RelativeDocumentMoniker": "ytBookStore\\Models\\Domain\\DatabaseContext.cs",
@@ -223,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\appsettings.json",
               "RelativeDocumentMoniker": "ytBookStore\\appsettings.json",
@@ -235,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Program.cs",
               "RelativeDocumentMoniker": "ytBookStore\\Program.cs",
@@ -247,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AuthorService.cs",
               "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Repositories\\Implementation\\AuthorService.cs",
               "RelativeDocumentMoniker": "ytBookStore\\Repositories\\Implementation\\AuthorService.cs",
@@ -259,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "IGenreService.cs",
               "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Repositories\\Abstract\\IGenreService.cs",
               "RelativeDocumentMoniker": "ytBookStore\\Repositories\\Abstract\\IGenreService.cs",
@@ -271,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PublisherController.cs",
               "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Controllers\\PublisherController.cs",
               "RelativeDocumentMoniker": "ytBookStore\\Controllers\\PublisherController.cs",
@@ -283,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Views\\Author\\Update.cshtml",
               "RelativeDocumentMoniker": "ytBookStore\\Views\\Author\\Update.cshtml",
@@ -295,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AuthorController.cs",
               "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Controllers\\AuthorController.cs",
               "RelativeDocumentMoniker": "ytBookStore\\Controllers\\AuthorController.cs",
@@ -307,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Views\\Publisher\\Add.cshtml",
               "RelativeDocumentMoniker": "ytBookStore\\Views\\Publisher\\Add.cshtml",
@@ -319,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "IPublisherService.cs",
               "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Repositories\\Abstract\\IPublisherService.cs",
               "RelativeDocumentMoniker": "ytBookStore\\Repositories\\Abstract\\IPublisherService.cs",
@@ -331,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "PublisherService.cs",
               "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Repositories\\Implementation\\PublisherService.cs",
               "RelativeDocumentMoniker": "ytBookStore\\Repositories\\Implementation\\PublisherService.cs",
@@ -343,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Author.cs",
               "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Models\\Domain\\Author.cs",
               "RelativeDocumentMoniker": "ytBookStore\\Models\\Domain\\Author.cs",
@@ -355,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "GetAll.cshtml",
               "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Views\\Author\\GetAll.cshtml",
               "RelativeDocumentMoniker": "ytBookStore\\Views\\Author\\GetAll.cshtml",
@@ -367,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "20231230135551_mg4.cs",
               "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Migrations\\20231230135551_mg4.cs",
               "RelativeDocumentMoniker": "ytBookStore\\Migrations\\20231230135551_mg4.cs",
@@ -379,7 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "GenreService.cs",
               "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Repositories\\Implementation\\GenreService.cs",
               "RelativeDocumentMoniker": "ytBookStore\\Repositories\\Implementation\\GenreService.cs",
@@ -391,7 +408,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Views\\Author\\Add.cshtml",
               "RelativeDocumentMoniker": "ytBookStore\\Views\\Author\\Add.cshtml",
@@ -403,7 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Publisher.cs",
               "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Models\\Domain\\Publisher.cs",
               "RelativeDocumentMoniker": "ytBookStore\\Models\\Domain\\Publisher.cs",
@@ -415,7 +432,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "20231225111355_init.cs",
               "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Migrations\\20231225111355_init.cs",
               "RelativeDocumentMoniker": "ytBookStore\\Migrations\\20231225111355_init.cs",
@@ -427,7 +444,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Views\\Genre\\Add.cshtml",
               "RelativeDocumentMoniker": "ytBookStore\\Views\\Genre\\Add.cshtml",
@@ -439,7 +456,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "GetAll.cshtml",
               "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Views\\Genre\\GetAll.cshtml",
               "RelativeDocumentMoniker": "ytBookStore\\Views\\Genre\\GetAll.cshtml",
@@ -451,7 +468,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Views\\Genre\\Update.cshtml",
               "RelativeDocumentMoniker": "ytBookStore\\Views\\Genre\\Update.cshtml",
