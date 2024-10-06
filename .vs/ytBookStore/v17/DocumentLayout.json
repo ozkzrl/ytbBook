@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|c:\\users\\ozkan\\source\\repos\\ytbookstore\\ytbookstore\\repositories\\implementation\\bookservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|solutionrelative:ytbookstore\\repositories\\implementation\\bookservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|c:\\users\\ozkan\\source\\repos\\ytbookstore\\ytbookstore\\repositories\\abstract\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|solutionrelative:ytbookstore\\repositories\\abstract\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|c:\\users\\ozkan\\source\\repos\\ytbookstore\\ytbookstore\\views\\publisher\\getall.cshtml||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
+      "RelativeMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|solutionrelative:ytbookstore\\views\\publisher\\getall.cshtml||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|c:\\users\\ozkan\\source\\repos\\ytbookstore\\ytbookstore\\controllers\\publishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|solutionrelative:ytbookstore\\controllers\\publishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|c:\\users\\ozkan\\source\\repos\\ytbookstore\\ytbookstore\\views\\publisher\\update.cshtml||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
+      "RelativeMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|solutionrelative:ytbookstore\\views\\publisher\\update.cshtml||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|c:\\users\\ozkan\\source\\repos\\ytbookstore\\ytbookstore\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|solutionrelative:ytbookstore\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|c:\\users\\ozkan\\source\\repos\\ytbookstore\\ytbookstore\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|solutionrelative:ytbookstore\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|c:\\users\\ozkan\\source\\repos\\ytbookstore\\ytbookstore\\repositories\\implementation\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|solutionrelative:ytbookstore\\repositories\\implementation\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|c:\\users\\ozkan\\source\\repos\\ytbookstore\\ytbookstore\\repositories\\abstract\\igenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|solutionrelative:ytbookstore\\repositories\\abstract\\igenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|c:\\users\\ozkan\\source\\repos\\ytbookstore\\ytbookstore\\views\\publisher\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|solutionrelative:ytbookstore\\views\\publisher\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|c:\\users\\ozkan\\source\\repos\\ytbookstore\\ytbookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|solutionrelative:ytbookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|c:\\users\\ozkan\\source\\repos\\ytbookstore\\ytbookstore\\repositories\\implementation\\publisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|solutionrelative:ytbookstore\\repositories\\implementation\\publisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|c:\\users\\ozkan\\source\\repos\\ytbookstore\\ytbookstore\\repositories\\abstract\\ipublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|solutionrelative:ytbookstore\\repositories\\abstract\\ipublisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|c:\\users\\ozkan\\source\\repos\\ytbookstore\\ytbookstore\\repositories\\implementation\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|solutionrelative:ytbookstore\\repositories\\implementation\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|c:\\users\\ozkan\\source\\repos\\ytbookstore\\ytbookstore\\views\\author\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|solutionrelative:ytbookstore\\views\\author\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|c:\\users\\ozkan\\source\\repos\\ytbookstore\\ytbookstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|solutionrelative:ytbookstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|c:\\users\\ozkan\\source\\repos\\ytbookstore\\ytbookstore\\migrations\\20231230135551_mg4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|solutionrelative:ytbookstore\\migrations\\20231230135551_mg4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|c:\\users\\ozkan\\source\\repos\\ytbookstore\\ytbookstore\\models\\domain\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|solutionrelative:ytbookstore\\models\\domain\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|c:\\users\\ozkan\\source\\repos\\ytbookstore\\ytbookstore\\models\\domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|solutionrelative:ytbookstore\\models\\domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|c:\\users\\ozkan\\source\\repos\\ytbookstore\\ytbookstore\\models\\domain\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|solutionrelative:ytbookstore\\models\\domain\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|c:\\users\\ozkan\\source\\repos\\ytbookstore\\ytbookstore\\views\\author\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|solutionrelative:ytbookstore\\views\\author\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|c:\\users\\ozkan\\source\\repos\\ytbookstore\\ytbookstore\\models\\domain\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|solutionrelative:ytbookstore\\models\\domain\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|c:\\users\\ozkan\\source\\repos\\ytbookstore\\ytbookstore\\views\\author\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|solutionrelative:ytbookstore\\views\\author\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|c:\\users\\ozkan\\source\\repos\\ytbookstore\\ytbookstore\\views\\genre\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|solutionrelative:ytbookstore\\views\\genre\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|c:\\users\\ozkan\\source\\repos\\ytbookstore\\ytbookstore\\views\\genre\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|solutionrelative:ytbookstore\\views\\genre\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|c:\\users\\ozkan\\source\\repos\\ytbookstore\\ytbookstore\\views\\genre\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|solutionrelative:ytbookstore\\views\\genre\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|c:\\users\\ozkan\\source\\repos\\ytbookstore\\ytbookstore\\migrations\\20231225111355_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78581869-81D5-41F6-AFD7-972AE0F766D2}|ytBookStore\\ytBookStore.csproj|solutionrelative:ytbookstore\\migrations\\20231225111355_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 546,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookService .cs",
+              "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Repositories\\Implementation\\BookService .cs",
+              "RelativeDocumentMoniker": "ytBookStore\\Repositories\\Implementation\\BookService .cs",
+              "ToolTip": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Repositories\\Implementation\\BookService .cs",
+              "RelativeToolTip": "ytBookStore\\Repositories\\Implementation\\BookService .cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAIwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-24T21:32:49.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Repositories\\Abstract\\IBookService.cs",
+              "RelativeDocumentMoniker": "ytBookStore\\Repositories\\Abstract\\IBookService.cs",
+              "ToolTip": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Repositories\\Abstract\\IBookService.cs",
+              "RelativeToolTip": "ytBookStore\\Repositories\\Abstract\\IBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-24T21:27:49.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Views\\Publisher\\GetAll.cshtml",
+              "RelativeDocumentMoniker": "ytBookStore\\Views\\Publisher\\GetAll.cshtml",
+              "ToolTip": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Views\\Publisher\\GetAll.cshtml",
+              "RelativeToolTip": "ytBookStore\\Views\\Publisher\\GetAll.cshtml",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-24T21:19:40.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Views\\Publisher\\Update.cshtml",
+              "RelativeDocumentMoniker": "ytBookStore\\Views\\Publisher\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Views\\Publisher\\Update.cshtml",
+              "RelativeToolTip": "ytBookStore\\Views\\Publisher\\Update.cshtml",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-24T21:16:09.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenreController.cs",
+              "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Controllers\\GenreController.cs",
+              "RelativeDocumentMoniker": "ytBookStore\\Controllers\\GenreController.cs",
+              "ToolTip": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Controllers\\GenreController.cs",
+              "RelativeToolTip": "ytBookStore\\Controllers\\GenreController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAiwDwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-25T12:25:18.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Models\\Domain\\Book.cs",
+              "RelativeDocumentMoniker": "ytBookStore\\Models\\Domain\\Book.cs",
+              "ToolTip": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Models\\Domain\\Book.cs",
+              "RelativeToolTip": "ytBookStore\\Models\\Domain\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-25T10:44:23.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Models\\Domain\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "ytBookStore\\Models\\Domain\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Models\\Domain\\DatabaseContext.cs",
+              "RelativeToolTip": "ytBookStore\\Models\\Domain\\DatabaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-25T10:52:54.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\appsettings.json",
+              "RelativeDocumentMoniker": "ytBookStore\\appsettings.json",
+              "ToolTip": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\appsettings.json",
+              "RelativeToolTip": "ytBookStore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-12-25T10:53:50.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Program.cs",
+              "RelativeDocumentMoniker": "ytBookStore\\Program.cs",
+              "ToolTip": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Program.cs",
+              "RelativeToolTip": "ytBookStore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-25T11:04:16.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Repositories\\Implementation\\AuthorService.cs",
+              "RelativeDocumentMoniker": "ytBookStore\\Repositories\\Implementation\\AuthorService.cs",
+              "ToolTip": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Repositories\\Implementation\\AuthorService.cs",
+              "RelativeToolTip": "ytBookStore\\Repositories\\Implementation\\AuthorService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAqwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T14:10:54.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGenreService.cs",
+              "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Repositories\\Abstract\\IGenreService.cs",
+              "RelativeDocumentMoniker": "ytBookStore\\Repositories\\Abstract\\IGenreService.cs",
+              "ToolTip": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Repositories\\Abstract\\IGenreService.cs",
+              "RelativeToolTip": "ytBookStore\\Repositories\\Abstract\\IGenreService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-25T11:19:57.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PublisherController.cs",
+              "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Controllers\\PublisherController.cs",
+              "RelativeDocumentMoniker": "ytBookStore\\Controllers\\PublisherController.cs",
+              "ToolTip": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Controllers\\PublisherController.cs",
+              "RelativeToolTip": "ytBookStore\\Controllers\\PublisherController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAABIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-30T16:01:11.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Views\\Author\\Update.cshtml",
+              "RelativeDocumentMoniker": "ytBookStore\\Views\\Author\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Views\\Author\\Update.cshtml",
+              "RelativeToolTip": "ytBookStore\\Views\\Author\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-27T12:04:43.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "ytBookStore\\Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "ytBookStore\\Controllers\\AuthorController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAqwEcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T14:23:12.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Views\\Publisher\\Add.cshtml",
+              "RelativeDocumentMoniker": "ytBookStore\\Views\\Publisher\\Add.cshtml",
+              "ToolTip": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Views\\Publisher\\Add.cshtml",
+              "RelativeToolTip": "ytBookStore\\Views\\Publisher\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-30T16:10:34.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPublisherService.cs",
+              "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Repositories\\Abstract\\IPublisherService.cs",
+              "RelativeDocumentMoniker": "ytBookStore\\Repositories\\Abstract\\IPublisherService.cs",
+              "ToolTip": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Repositories\\Abstract\\IPublisherService.cs",
+              "RelativeToolTip": "ytBookStore\\Repositories\\Abstract\\IPublisherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-30T15:35:32.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PublisherService.cs",
+              "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Repositories\\Implementation\\PublisherService.cs",
+              "RelativeDocumentMoniker": "ytBookStore\\Repositories\\Implementation\\PublisherService.cs",
+              "ToolTip": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Repositories\\Implementation\\PublisherService.cs",
+              "RelativeToolTip": "ytBookStore\\Repositories\\Implementation\\PublisherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-30T15:52:59.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Models\\Domain\\Author.cs",
+              "RelativeDocumentMoniker": "ytBookStore\\Models\\Domain\\Author.cs",
+              "ToolTip": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Models\\Domain\\Author.cs",
+              "RelativeToolTip": "ytBookStore\\Models\\Domain\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-25T10:43:20.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Views\\Author\\GetAll.cshtml",
+              "RelativeDocumentMoniker": "ytBookStore\\Views\\Author\\GetAll.cshtml",
+              "ToolTip": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Views\\Author\\GetAll.cshtml",
+              "RelativeToolTip": "ytBookStore\\Views\\Author\\GetAll.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-27T12:09:54.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20231230135551_mg4.cs",
+              "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Migrations\\20231230135551_mg4.cs",
+              "RelativeDocumentMoniker": "ytBookStore\\Migrations\\20231230135551_mg4.cs",
+              "ToolTip": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Migrations\\20231230135551_mg4.cs",
+              "RelativeToolTip": "ytBookStore\\Migrations\\20231230135551_mg4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-30T13:55:53.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GenreService.cs",
+              "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Repositories\\Implementation\\GenreService.cs",
+              "RelativeDocumentMoniker": "ytBookStore\\Repositories\\Implementation\\GenreService.cs",
+              "ToolTip": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Repositories\\Implementation\\GenreService.cs",
+              "RelativeToolTip": "ytBookStore\\Repositories\\Implementation\\GenreService.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-25T11:53:57.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Views\\Author\\Add.cshtml",
+              "RelativeDocumentMoniker": "ytBookStore\\Views\\Author\\Add.cshtml",
+              "ToolTip": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Views\\Author\\Add.cshtml",
+              "RelativeToolTip": "ytBookStore\\Views\\Author\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-27T12:01:09.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Models\\Domain\\Publisher.cs",
+              "RelativeDocumentMoniker": "ytBookStore\\Models\\Domain\\Publisher.cs",
+              "ToolTip": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Models\\Domain\\Publisher.cs",
+              "RelativeToolTip": "ytBookStore\\Models\\Domain\\Publisher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-25T10:41:25.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20231225111355_init.cs",
+              "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Migrations\\20231225111355_init.cs",
+              "RelativeDocumentMoniker": "ytBookStore\\Migrations\\20231225111355_init.cs",
+              "ToolTip": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Migrations\\20231225111355_init.cs",
+              "RelativeToolTip": "ytBookStore\\Migrations\\20231225111355_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-25T11:13:56.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Views\\Genre\\Add.cshtml",
+              "RelativeDocumentMoniker": "ytBookStore\\Views\\Genre\\Add.cshtml",
+              "ToolTip": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Views\\Genre\\Add.cshtml",
+              "RelativeToolTip": "ytBookStore\\Views\\Genre\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-26T11:35:29.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Views\\Genre\\GetAll.cshtml",
+              "RelativeDocumentMoniker": "ytBookStore\\Views\\Genre\\GetAll.cshtml",
+              "ToolTip": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Views\\Genre\\GetAll.cshtml",
+              "RelativeToolTip": "ytBookStore\\Views\\Genre\\GetAll.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-26T12:51:25.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Views\\Genre\\Update.cshtml",
+              "RelativeDocumentMoniker": "ytBookStore\\Views\\Genre\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ozkan\\source\\repos\\ytBookStore\\ytBookStore\\Views\\Genre\\Update.cshtml",
+              "RelativeToolTip": "ytBookStore\\Views\\Genre\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-26T12:34:07.591Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 145,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
